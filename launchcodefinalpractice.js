@@ -75,7 +75,7 @@ console.log(userAccountInfo[6]);
 
 
 
-//Example Code: Loops and Iteration
+//Example Code: Working With Loops
 //With this code I will attempt to loop through the users favorite artists and give them a ranking based on the users preferences
 
 let artistList = userAccountInfo[6];
